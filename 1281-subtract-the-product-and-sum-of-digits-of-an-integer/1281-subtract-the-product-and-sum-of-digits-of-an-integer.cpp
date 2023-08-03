@@ -8,7 +8,8 @@ public:
           s = s + d;
           n=n/10;
      }
-    return m-s;
+    int a = m-s;
+    return a;
 
         
     }
